@@ -1,0 +1,3 @@
+model,latency_ms_mean,latency_ms_std,total_detections,avg_confidence
+yolov8n,619.74,74.66,39,0.4852
+yolov8m,1093.31,150.56,71,0.5485
