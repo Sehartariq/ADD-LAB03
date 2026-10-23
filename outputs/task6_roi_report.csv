@@ -1,0 +1,4 @@
+person_index,x1,y1,x2,y2,centroid_x,centroid_y,confidence,inside_roi,pointPolygonTest_distance
+0,48,398,245,902,146,650,0.8657,True,1.0
+1,669,392,809,877,739,634,0.8528,False,-1.0
+2,221,405,344,857,282,631,0.8252,True,1.0
